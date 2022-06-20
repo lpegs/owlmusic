@@ -12,6 +12,8 @@ export function Content(){
     const songInfo = useSongInfo();
     const { data: session, status } = useSession();
 
+    console.log(songInfo)
+
     return (
         <>
             <Flex
