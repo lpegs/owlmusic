@@ -315,7 +315,7 @@ export function Content(){
                 >Thank you for listening with us!</Text>
             </Flex>
             <Flex display="none">
-                <Player accessToken={session?.user?.accessToken} trackUri={songInfo?.uri} />
+                {/* <Player accessToken={session?.user?.accessToken} trackUri={songInfo?.uri} /> */}
             </Flex>
             
         </>
