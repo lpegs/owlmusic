@@ -1,0 +1,27 @@
+*{
+  text-align: center;
+  background: rgb(74, 74, 74);
+  
+}
+
+body {
+  -webkit-app-region: drag;
+}
+
+.main {
+  display: flex;
+  margin: auto;
+  justify-content: space-around;
+  align-items: center;
+  max-width: 1000px;
+  height: 90vh;
+  -webkit-app-region: no-drag !important;
+}
+
+.bar {
+  width: 3px;
+  height: 80%;
+  min-height: 500px;
+  border-radius: 60%;
+  background: rgb(38, 38, 38);
+}
