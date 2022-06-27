@@ -1,34 +1,19 @@
-Music player based on spotify.
+Music player.
 
 Technologies used:
 
-    Spotify's API
-    NextJS
-    Nextauth
-    ChakraUI
-    Atoms
+    React JS
+    React Icons
     Recoil
-
-
-The project is not complete yet, but this is how it is so far:
+    Styled-components
+    Electron
+    Electron-builder
 
 Home
 ![alt text](https://github.com/lpegs/owlmusic/blob/main/public/app/main.png?raw=true)
 
-Albums (not finished)
-![alt text](https://github.com/lpegs/owlmusic/blob/main/public/app/albums_not_finished.png?raw=true)
-
-Footer
-![alt text](https://github.com/lpegs/owlmusic/blob/main/public/app/footer.png?raw=true)
-
-Login
-![alt text](https://github.com/lpegs/owlmusic/blob/main/public/app/login.png?raw=true)
-
-Search
-![alt text](https://github.com/lpegs/owlmusic/blob/main/public/app/search.png?raw=true)
-
-Playing
-![alt text](https://github.com/lpegs/owlmusic/blob/main/public/app/playing.png?raw=true)
+About
+![alt text](https://github.com/lpegs/owlmusic/blob/main/public/app/about.png?raw=true)
 
 
 
